@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>告台湾书（转）</title>
-    <link href="/2022/08/18/%E5%91%8A%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E4%B9%A6%EF%BC%88%E8%BD%AC%EF%BC%89/"/>
-    <url>/2022/08/18/%E5%91%8A%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E4%B9%A6%EF%BC%88%E8%BD%AC%EF%BC%89/</url>
+    <title>Hello World</title>
+    <link href="/2024/06/09/hello-world/"/>
+    <url>/2024/06/09/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>我是大陆福建人，我个人本来是希望两岸维持现状，希望台湾的掌权者能真正从台湾人的福祉出发管理好台湾，亲中可以同时亲美亲西都没问题，两岸一家亲，双方互通旅游、工作、求学、经商等等，共同实现中华民族伟大复兴（这句话虽然是大陆政府说的，但一点错也没有啊），通过了解消除隔阂，最终在未来实现和平统一。</p><p>但是，台湾民进党和部分台湾人就是要无视大陆的善意，放着好好的日子不过，不承认自己是中国人而是南岛人（简直笑死都不屑于反驳），说什么大陆欺负台湾，要抗中保台：</p><p>1，大陆14亿人每年能赚到6000~8000亿美金（其中3000多亿来自美国）的贸易顺差，而台湾2300万人每年就从大陆赚走快2000亿。台湾“出口”到大陆的很多东西我们也有，但仍然给台湾产品优先权。除了港澳台地区，天然砂是禁止出口的。这是欺负台湾？</p><p>2，台湾人在大陆旅游、求学、经商、定居等等会受到很多特别优待，反而大陆一点点学生去台湾上大学连健保都不让上，却开放给其他国籍的留学生。这是欺负台湾？</p><p>哦，大陆一直想跟台湾和平统一就是欺负你们啦？从1949年中华民国败退台湾开始的几十年，台湾的经济和军事实力还可以跟大陆抗衡加上有美国的帮忙时，你们一直追求反攻大陆，国军军舰、战机时常来侵扰大陆，一直到90年代末，光金门守军每年都要打死一些大陆渔民（我们隔壁村就有），就是因为他们“太贪心”了，捕鱼捕得离金门太近了。反过来，大陆这么对待（欺负）过台湾人吗？哦，实力够的时候要统一（反攻）大陆，实力不够了将来会被统一了就想独立啦，哪有这样的事？要不然去问问你们蒋总统当年为什么不答应跟共产党划长江南北分治，或者刚退到台湾时为什么不追求独立。</p><p>说到欺负，当年日本殖民台湾，杀了多少台湾人，抓了多少慰安妇，你们自己拍了那么多影片都忘了，现在这些行为在你们眼里不是欺负，是日本哥哥好棒棒了？台湾和大陆都拍过描述四行仓库的电影，那八百国军兄弟当年就算死也要把青天白日旗插好，现在一个安倍晋三被暗杀，人家日本还没怎样，你们全岛降半旗了……</p><p>其实撇开到底有没有选票，被一个政党管理还是多党轮流，统一还是被统一，改不改国号……真正有被影响到的是那些政客们，他们怕统一后就没了权势和钱途而已，作为一个老百姓关键是自己的日子过得好不好才最重要啊</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
@@ -18,31 +18,12 @@
   
   <entry>
     <title>告台湾同胞书（转）</title>
-    <link href="/2022/08/18/%E5%91%8A%E5%8F%B0%E6%B9%BE%E4%B9%A6%EF%BC%88%E8%BD%AC%EF%BC%89/"/>
-    <url>/2022/08/18/%E5%91%8A%E5%8F%B0%E6%B9%BE%E4%B9%A6%EF%BC%88%E8%BD%AC%EF%BC%89/</url>
+    <link href="/2022/08/18/%E5%91%8A%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E4%B9%A6%EF%BC%88%E8%BD%AC%EF%BC%89/"/>
+    <url>/2022/08/18/%E5%91%8A%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E4%B9%A6%EF%BC%88%E8%BD%AC%EF%BC%89/</url>
     
     <content type="html"><![CDATA[<p>我是大陆福建人，我个人本来是希望两岸维持现状，希望台湾的掌权者能真正从台湾人的福祉出发管理好台湾，亲中可以同时亲美亲西都没问题，两岸一家亲，双方互通旅游、工作、求学、经商等等，共同实现中华民族伟大复兴（这句话虽然是大陆政府说的，但一点错也没有啊），通过了解消除隔阂，最终在未来实现和平统一。</p><p>但是，台湾民进党和部分台湾人就是要无视大陆的善意，放着好好的日子不过，不承认自己是中国人而是南岛人（简直笑死都不屑于反驳），说什么大陆欺负台湾，要抗中保台：</p><p>1，大陆14亿人每年能赚到6000~8000亿美金（其中3000多亿来自美国）的贸易顺差，而台湾2300万人每年就从大陆赚走快2000亿。台湾“出口”到大陆的很多东西我们也有，但仍然给台湾产品优先权。除了港澳台地区，天然砂是禁止出口的。这是欺负台湾？</p><p>2，台湾人在大陆旅游、求学、经商、定居等等会受到很多特别优待，反而大陆一点点学生去台湾上大学连健保都不让上，却开放给其他国籍的留学生。这是欺负台湾？</p><p>哦，大陆一直想跟台湾和平统一就是欺负你们啦？从1949年中华民国败退台湾开始的几十年，台湾的经济和军事实力还可以跟大陆抗衡加上有美国的帮忙时，你们一直追求反攻大陆，国军军舰、战机时常来侵扰大陆，一直到90年代末，光金门守军每年都要打死一些大陆渔民（我们隔壁村就有），就是因为他们“太贪心”了，捕鱼捕得离金门太近了。反过来，大陆这么对待（欺负）过台湾人吗？哦，实力够的时候要统一（反攻）大陆，实力不够了将来会被统一了就想独立啦，哪有这样的事？要不然去问问你们蒋总统当年为什么不答应跟共产党划长江南北分治，或者刚退到台湾时为什么不追求独立。</p><p>说到欺负，当年日本殖民台湾，杀了多少台湾人，抓了多少慰安妇，你们自己拍了那么多影片都忘了，现在这些行为在你们眼里不是欺负，是日本哥哥好棒棒了？台湾和大陆都拍过描述四行仓库的电影，那八百国军兄弟当年就算死也要把青天白日旗插好，现在一个安倍晋三被暗杀，人家日本还没怎样，你们全岛降半旗了……</p><p>其实撇开到底有没有选票，被一个政党管理还是多党轮流，统一还是被统一，改不改国号……真正有被影响到的是那些政客们，他们怕统一后就没了权势和钱途而已，作为一个老百姓关键是自己的日子过得好不好才最重要啊</p>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>伦敦vps白塔面板信息</title>
-    <link href="/2022/08/03/%E4%BC%A6%E6%95%A6vps%E7%99%BD%E5%A1%94%E9%9D%A2%E6%9D%BF%E4%BF%A1%E6%81%AF/"/>
-    <url>/2022/08/03/%E4%BC%A6%E6%95%A6vps%E7%99%BD%E5%A1%94%E9%9D%A2%E6%9D%BF%E4%BF%A1%E6%81%AF/</url>
-    
-    <content type="html"><![CDATA[<p>外网面板地址: http:&#x2F;&#x2F;[2001:41d0:800:1cc6::7c2b:a6b5]:8888&#x2F;fad426c1<br>内网面板地址: <a href="http://51.89.248.96:8888/fad426c1">http://51.89.248.96:8888/fad426c1</a><br>username: omwbyn6i<br>password: 1f5130ff<br>If you cannot access the panel,<br>release the following panel port [8888] in the security group<br>若无法访问面板，请检查防火墙&#x2F;安全组是否有放行面板[8888]端口</p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>vps</tag>
-      
-    </tags>
     
   </entry>
   
@@ -68,19 +49,6 @@
       <tag>台海</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2022/08/03/hello-world/"/>
-    <url>/2022/08/03/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
     
   </entry>
   
